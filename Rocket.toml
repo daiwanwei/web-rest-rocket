@@ -1,0 +1,2 @@
+[default.databases]
+diesel = { url = "postgres://alien@localhost/rest_example" }
